@@ -12,3 +12,5 @@ Rock, Paper, Scissors — это игра на Python с графическим 
 - Python 3 
 - Pygame 
 - random 
+
+![Скриншот работы программы](https://github.com/user-attachments/assets/5f6a0a07-6881-400e-9455-56f648fb1572)
